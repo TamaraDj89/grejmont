@@ -30,7 +30,7 @@
           <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post" id="sendemail">
             <ol> 
               <li>
-                <label for="pitanje">Pitanje</label>
+                <label for="pitanje">Postavi Pitanje</label>
                 <textarea id="pitanje" name="pitanje" rows="8" cols="50"></textarea>
               </li>
               <li>
