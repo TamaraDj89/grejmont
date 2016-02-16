@@ -31,7 +31,7 @@
             <ol> 
               <li>
                 <label for="pitanje">Postavi Pitanje</label>
-                <textarea id="pitanje" name="pitanje" rows="8" cols="50"></textarea>
+                <textarea id="pitanje" name="pitanje" rows="8" cols="30"></textarea>
               </li>
               <li>
                 <input type="submit" name="submit" id="imageField" src="images/submit.gif" class="send" value="Dodaj pitanje" />
